@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Feminist Rhetoric and Media</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #fefefe;
+      color: #222;
+    }
+
+    header {
+      background-color: #5c2a9d;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #eee;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #5c2a9d;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+
+    h1, h2 {
+      color: #5c2a9d;
+    }
+
+    footer {
+      background-color: #5c2a9d;
+      color: #fff;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+
+    .quote {
+      font-style: italic;
+      margin-top: 1rem;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Feminist Rhetoric and Media</h1>
+  <p>Deconstructing the Harm of Representation</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#body-politics">Body Politics</a>
+  <a href="#social-media">Social Media</a>
+  <a href="#advertising">Advertising</a>
+  <a href="#exclusion">Exclusion</a>
+  <a href="#strategies">Subversion</a>
+  <a href="#conclusion">Conclusion</a>
+</nav>
+
+<section id="home">
+  <h2>Feminist Rhetoric and Media: Deconstructing the Harm</h2>
+  <p>In today’s hyper-visual and socially connected world, media, advertisements, and social media platforms do more than entertain—they shape our understanding of identity, beauty, and worth. But who benefits from this portrayal, and who is left out?</p>
+  <p>Using the insights of feminist scholars like Susan Bordo, bell hooks, Judith Butler, and Rebecca Lester, this site critically examines how these platforms often do more harm than good to women—especially those who don’t fit the narrow mold of whiteness, thinness, youth, and heteronormativity.</p>
+  <p class="quote">"To be recognized as human is not the same as being recognized as equal." – bell hooks</p>
+</section>
+
+<section id="body-politics">
+  <h2>Feminist Rhetoric and Body Politics</h2>
+  <p>Susan Bordo, in <em>Unbearable Weight</em>, argues that the female body is a site of cultural inscription. From diet ads to influencer culture, women are constantly bombarded with messages that equate thinness with discipline, whiteness with desirability, and youth with value.</p>
+  <p>Judith Butler’s concept of gender performativity shows how media prescribes the roles women must perform to be seen as feminine or desirable. The result? A dangerously narrow template for womanhood, reinforced by the images we see every day.</p>
+</section>
+
+<section id="social-media">
+  <h2>Social Media and Its Impact on Feminist Rhetoric</h2>
+  <p>Social media platforms like Instagram and TikTok are dominated by influencers who fit the “ideal” mold: white, thin, conventionally attractive, and typically able-bodied. While these platforms offer visibility to some, they marginalize many.</p>
+  <p>Bordo’s “regulatory gaze” is more relevant than ever—our bodies are judged, liked, and ranked in real-time. What appears as freedom becomes self-surveillance, especially for young women trying to define themselves through the lens of popularity and conformity.</p>
+</section>
+
+<section id="advertising">
+  <h2>Advertising's Feminist Critique</h2>
+  <p>Rebecca Lester, in “Rhetorical Strategies in Feminist Advertising,” reveals how even “woke” ad campaigns rely on neoliberal ideals of empowerment through consumption. Ads like Dove’s Real Beauty campaign may feature diverse bodies, but the message still hinges on buying your way to self-love.</p>
+  <p>Many brands perpetuate a single vision of femininity—young, white, slim, cisgender. True inclusion remains rare and often superficial, further reinforcing patriarchal norms under the guise of progress.</p>
+</section>
+
+<section id="exclusion">
+  <h2>The Exclusion of Marginalized Women</h2>
+  <p>bell hooks' <em>Feminist Theory: From Margin to Center</em> insists that feminist analysis must begin at the margins. Yet the media often sidelines Black women, Indigenous women, fat women, queer women, and disabled women.</p>
+  <p>Even campaigns labeled as “diverse” rarely feature darker-skinned women or non-binary individuals. This exclusion upholds a value system based on proximity to whiteness, thinness, and heterosexuality.</p>
+</section>
+
+<section id="strategies">
+  <h2>Feminist Strategies for Subverting Harmful Media Narratives</h2>
+  <p>Across digital platforms, resistance is growing. Hashtags like #BodyPositivity and #BlackGirlMagic challenge sanitized beauty norms and create space for radical self-love and diverse identities.</p>
+  <p>Judith Butler reminds us that identity is not fixed—it can be subverted. Women and femmes are using media to reclaim their voices and reshape narratives that once silenced them.</p>
+</section>
+
+<section id="conclusion">
+  <h2>The Road Ahead</h2>
+  <p>Changing media begins with changing how we see. Feminist rhetoric equips us to critique and resist harmful portrayals of womanhood. As bell hooks reminds us, “Feminism is for everybody.” But for it to be truly inclusive, it must dismantle the systems that exclude marginalized voices.</p>
+  <p>This site is just a starting point—your voice, your platform, and your choices can help shape a more equitable media future.</p>
+</section>
+
+<footer>
+  <p>© 2025 Feminist Media Rhetoric | Built with ❤️ and radical theory</p>
+</footer>
+
+</body>
+</html>
